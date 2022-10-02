@@ -56,10 +56,14 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Peg.cs" />
-    <Compile Include="Assets\Scripts\Hole.cs" />
-    <Compile Include="Assets\Scripts\GameManager.cs" />
-    <Compile Include="Assets\Scripts\DisplayManager.cs" />
+    <Compile Include="Assets\Scripts\Game\Peg.cs" />
+    <Compile Include="Assets\Scripts\Game\DisplayManager.cs" />
+    <Compile Include="Assets\Scripts\Game\Hole.cs" />
+    <Compile Include="Assets\Scripts\Game\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Title\TitleMenu.cs" />
+    <Compile Include="Assets\Scripts\Game\MainCamera.cs" />
+    <Compile Include="Assets\Scripts\Options.cs" />
+    <Compile Include="Assets\Scripts\Game\SoundEffects.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -50,8 +50,19 @@ MonoBehaviour:
   iRow: 0
   iCol: 0
   isHovered: 0
-  matPeg: {fileID: 2100000, guid: d92a9a61103f04940a6cec954b34461b, type: 2}
+  isDragged: 0
+  matPeg: {fileID: -5910745780889988049, guid: bcf10e3d44496164c95e3c695e77e543, type: 3}
   matPegHighlight: {fileID: 2100000, guid: cf91af921cc719245b61e23e7366475d, type: 2}
+  hole: {fileID: 0}
+  listPegColors:
+  - {r: 1, g: 0, b: 0, a: 0}
+  - {r: 1, g: 0.6766883, b: 0, a: 0}
+  - {r: 0.94708157, g: 1, b: 0, a: 0}
+  - {r: 0.26364803, g: 1, b: 0, a: 0}
+  - {r: 0, g: 1, b: 0.91027117, a: 0}
+  - {r: 0, g: 0.051671505, b: 1, a: 0}
+  - {r: 0.6187501, g: 0, b: 1, a: 0}
+  - {r: 1, g: 0, b: 0.7465019, a: 0}
 --- !u!136 &435197406307127577
 CapsuleCollider:
   m_ObjectHideFlags: 0

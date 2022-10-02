@@ -49,7 +49,7 @@ MonoBehaviour:
   iRow: 0
   iCol: 0
   isHovered: 0
-  matHole: {fileID: 2100000, guid: 36585955f4eb03f49b085c3d9183c789, type: 2}
+  matHole: {fileID: -1410141629005025548, guid: 2c354530e680e464284e6f002a9c8b7e, type: 3}
   matHoleHighlight: {fileID: 2100000, guid: d6e81e29bdd770f4d9af2486dccbd667, type: 2}
   peg: {fileID: 0}
 --- !u!1001 &2716921955950120253
